@@ -63,8 +63,9 @@ Developed by: RegisterNumber:212224230260
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![447345717-71d0d6fc-70c2-4e99-ba88-7e1d1aaee238](https://github.com/user-attachments/assets/ef3f07e7-9c0e-4ebf-9e04-d2602ca901f1)
 
-![image](https://github.com/user-attachments/assets/b207fa7f-0852-4fa3-843b-21ccf835a8a2)
+
 
 **TRUTH TABLE**
 ![image](https://github.com/user-attachments/assets/b6e79de6-9332-475f-9847-f7cf59920d6e)
